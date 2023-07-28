@@ -1,0 +1,41 @@
+.Trendingproductsprops{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: lightblue;
+    border: 1px solid palevioletred;
+}
+.Trendingproducts{
+   
+ text-align: center;
+ border: 1px solid palevioletred;
+
+}
+.Heading-200{
+    background-color: lightblue;
+}
+.Trendingproducts button{
+    background-color:  #ff147b;
+    color: white;
+    height: 40px;
+    width: 150px;
+    border-radius: 20px;
+    
+}
+.view{
+    justify-content: space-evenly;
+    background-color: green;
+    color: white;
+    height: 40px;
+    width: 250px;
+    align-items: center;
+   margin-left: 700px;
+   margin-top: 20px;
+   margin-bottom: 20px;
+}
+.TrendingHairsProps{
+    background-color: lightgreen;
+    display: flex;
+    justify-content: space-evenly;
+}
+.Heading-300{
+    background-color:  lightgreen;}

@@ -1,0 +1,13 @@
+.Services{
+    display: grid;
+    grid-template-columns: auto auto;
+    line-height: 20px;
+    row-gap: 60px;
+    justify-content: space-evenly;
+    color: rgb(243, 29, 65);
+    font-weight: 900;
+    border: 1px solid black;
+    font-size: x-large;
+    background-color: lightyellow;
+
+}

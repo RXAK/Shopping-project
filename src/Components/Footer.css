@@ -1,0 +1,10 @@
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+    bottom: 0%;
+    background-color: grey;
+}
+.footer a{
+    display: flex;
+    flex-direction: column;
+}

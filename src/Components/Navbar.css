@@ -1,0 +1,73 @@
+.main{
+    height: 80px;
+    width: 100%;
+    background-color:#f9d3e8;
+    margin-top: 0px;
+    display: flex;
+    justify-content: space-evenly;
+    
+    
+}
+body{
+    padding: 0;
+    margin: 0;
+}
+.logo{
+    padding-top: 1px;
+}
+.Login{
+    height: 30px;
+    width: 80px;
+    background-color:rgb(8, 8, 8);
+    color: aliceblue;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.Register{
+    height: 40px;
+    width: 100px;
+    background-color: green;
+    border-radius: 60px;
+    color: aliceblue;
+    margin-left: 30px;
+    font-weight: bolder;
+    
+}
+.cart{
+    display: flex;
+    gap: 30px;
+    color: rgb(7, 7, 7);
+   
+}
+.search input{
+
+height: 40px;
+width: 300px;
+margin-top: 20px;
+background-color: transparent;
+/* border: none;  */
+border: 1px solid black;
+border-top-left-radius: 50px;
+border-bottom-right-radius: 50px;
+text-align: center;
+color: black;
+}
+/*  */
+.Catogories{
+display: flex;
+justify-content: space-evenly;
+/* border-bottom: 0.5px solid black; */
+padding-top: 30px;
+padding-bottom: 20px;
+background-color: #f9d3e8;
+}
+.men select{
+height: 40px;
+width: 200px;
+text-align: center;
+background-color: #ff147b;
+ color: aliceblue;
+ font-weight: bolder;
+ border-radius: 10px;
+ border: none;
+}
